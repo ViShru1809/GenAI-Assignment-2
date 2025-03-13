@@ -6,9 +6,10 @@ This project creates a simple heart shape using Python with NumPy and Matplotlib
 
 ## **How It Works**
 The heart shape is defined using the equations:
-
+```sh
 \[ x = 16 \sin^3(t) \]
 \[ y = 13 \cos(t) - 5 \cos(2t) - \cos(4t) - cos(4t) \]
+```
 
 The script:
 1. Defines a `HeartShape` class to generate the heart shape.
