@@ -11,7 +11,7 @@ The heart shape is defined using the equations:
 \[ y = 13 \cos(t) - 5 \cos(2t) - 2 \cos(3t)- \cos(4t)\]
 ```
 
-The script:
+
 1. Defines a `HeartShape` class to generate the heart shape.
 2. Uses `numpy` to calculate `x` and `y` values for smooth plotting.
 3. Uses `matplotlib` to create and display the heart shape plot.
